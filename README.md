@@ -1,4 +1,4 @@
-# CassandraMainApp
+# Cassandra Simple Example
 
 How to run this example:
 ```
